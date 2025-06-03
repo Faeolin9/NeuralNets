@@ -1,0 +1,30 @@
+# Analyse des Supervised Learning Notebooks
+
+## Lehransatz
+Das Notebook lehrt überwachtes Lernen durch einen praktischen Ansatz, der folgende Schritte umfasst:
+
+1. Beginnt mit Python-Grundlagen (Variablen, Datentypen, Listen, NumPy-Arrays)
+2. Einführung in die Klassifikation anhand des MNIST-Datensatzes für handgeschriebene Ziffern:
+   - Datenvisualisierung und -erkundung
+   - SVM-Implementierung für die Klassifikation
+   - Modellbewertung mit Hilfe von Genauigkeitsmetriken
+   - Aufteilung in Trainings- und Testdaten und k-fache Kreuzvalidierung
+   - Modellpersistenz (Speichern und Laden)
+
+3. Übergang zur Regression mit dem Diabetes-Datensatz:
+   - 3D-Visualisierung der Beziehungen zwischen Variablen
+   - SVR (Support Vector Regression) Implementierung
+   - Leistungsbewertung mit RMSE
+   - Hyperparameter-Tuning mit GridSearchCV
+
+## Lehrstil
+- Der Inhalt ist hauptsächlich auf Deutsch, was ihn für deutschsprachige Zielgruppen zugänglich macht
+- Schritt-für-Schritt-Erklärungen gefolgt von praktischer Code-Implementierung
+- Visuelle Hilfen zum Verständnis von Daten und Konzepten
+- Praktischer Fokus auf beiden Haupttypen des überwachten Lernens (Klassifikation und Regression)
+- Enthält Bewertungsmetriken zur Messung der Modellleistung
+- Betont die praktische Anwendung (Speichern/Laden von Modellen für zukünftige Nutzung)
+- Zugänglicher Ton mit etwas leichtem Humor
+- Didaktischer Aufbau von grundlegenden Konzepten zu fortgeschrittenen Techniken
+- Code ist gut kommentiert, um die Funktionalität zu erklären
+- Verwendet beliebte, branchenübliche Bibliotheken (scikit-learn, matplotlib, NumPy)
