@@ -5,5 +5,5 @@ seaborn
 scikit-learn
 tensorflow
 gymnasium
-PIL
-cv2
+pillow
+opencv-python
